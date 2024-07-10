@@ -1,5 +1,5 @@
 ---
-title: "*Ce qu'on vend*"
+title: "Ce qu'on vend"
 order: 1
 in_menu: true
 ---
