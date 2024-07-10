@@ -1,6 +1,6 @@
 :root {
     --couleur-primaire : #753785;
 }
-<body> 
+body {
 
-background: linear-gradient #753785;
+background-color:#655F5E;}
