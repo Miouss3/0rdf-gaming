@@ -6,4 +6,8 @@ in_menu: true
 0rdf-gaming
 
 Pour nous contacter : [0rd.f@gmail.team]
+
+Instagram : @0rdF_gaming
+
+
 ` 
