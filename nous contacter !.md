@@ -5,5 +5,5 @@ in_menu: true
 ---
 0rdf-gaming est actuellement composée de 6 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour nous contacter : [coucou@lechappeebelle.team](0rdf@gaming.team)
 ` 
