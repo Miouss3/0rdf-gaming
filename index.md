@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "0rdF-gaming vente d'objet et accessoire gaming"
 order: 0
+in_menu: true
 ---
+# _0rdF-gaming_
 
-# L'Échappée Belle
+*0rdF-gaming* est **un magasin en ligne** qui a pour objet de vendre et racheter  des PC consol jeux ect .
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+<img src="https://th.bing.com/th/id/R.fb90c3f22b7b5d20ae648bf9652480c7?rik=zFPExvrvRbVHdA&pid=ImgRaw&r=0.jpg"> 
