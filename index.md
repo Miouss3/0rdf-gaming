@@ -3,7 +3,7 @@ title: "0rdF-gaming vente d'objet et accessoire gaming"
 order: 0
 in_menu: true
 ---
-# _0rdF-gaming_
+# 0rdF-gaming
 
 *0rdF-gaming* est **un magasin en ligne** qui a pour objet de vendre et racheter  des PC consol jeux ect .
 
