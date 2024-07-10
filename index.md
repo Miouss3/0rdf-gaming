@@ -9,4 +9,4 @@ in_menu: true
 
 <img src="https://th.bing.com/th/id/R.fb90c3f22b7b5d20ae648bf9652480c7?rik=zFPExvrvRbVHdA&pid=ImgRaw&r=0.jpg">
 
- <button type="button">game now!!!</button> 
+ <center><button type="button">game now!!!</button></center> 
